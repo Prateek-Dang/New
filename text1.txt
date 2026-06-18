@@ -1,1 +1,2 @@
-hello
+trying to write in text file 1
+writing another lne
